@@ -13,3 +13,7 @@ SWOO is a company from Oldenburg and helps people and companies to bring their o
 5. **Commit as often as possible**
 6. Before pushing code to the repository, **make sure that you tested your work properly**
 7. After pushing the code, **create a pull request** (PR) with the develop branch as base
+
+### Config templates
+
+- [Project with typescript](https://github.com/swoo-digital/wiki/config-templates/project-with-typescript)
