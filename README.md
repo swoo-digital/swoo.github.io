@@ -16,4 +16,4 @@ SWOO is a company from Oldenburg and helps people and companies to bring their o
 
 ### Config templates
 
-- [Project with typescript](https://github.com/swoo-digital/wiki/config-templates/project-with-typescript)
+- [Project with typescript](https://github.com/swoo-digital/wiki/tree/main/config-templates/project-with-typescript)
