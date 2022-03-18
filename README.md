@@ -14,6 +14,13 @@ SWOO is a company from Oldenburg and helps people and companies to bring their o
 6. Before pushing code to the repository, **make sure that you tested your work properly**
 7. After pushing the code, **create a pull request** (PR) with the develop branch as base
 
+### Definition of Done
+
+- The feature has been tested locally and works
+- All console.log were removed
+- All acceptance criteria are completed
+- The developer guideline was followed
+
 ### Config templates
 
 - [Project with typescript](https://github.com/swoo-digital/wiki/tree/main/config-templates/project-with-typescript)
