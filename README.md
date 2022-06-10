@@ -5,4 +5,4 @@ SWOO is a company from Oldenburg and helps people and companies to bring their o
 ## Guidelines
 
 - [Developers](https://github.com/swoo-digital/wiki/tree/main/guideline-developer.md)
-- [Testing](https://github.com/swoo-digital/wiki/tree/main/guideline-testers.md)
+- [Testing](https://github.com/swoo-digital/wiki/tree/main/guideline-testing.md)
