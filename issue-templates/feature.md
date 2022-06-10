@@ -10,10 +10,20 @@ As a **subscriber**, I want to **submit my score for a crossfit event** so that 
 - [ ] Definition of Done was complied
 
 **Definition of Done**
-[Definition of Done for Developers](https://github.com/swoo-digital/wiki/blob/main/guideline-developer.md)
+[Definition of Done for Developers](https://github.com/swoo-digital/wiki/tree/main/README.md)
 
 **Prototype**
 [Link to prototype](https://framer.com)
 
+**Components**
+
+> AccountSwitch
+#83 
+
+> Component AccountImage 
+#84
+
 **Screenshots/Videos**
 https://loom.com
+
+
