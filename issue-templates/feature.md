@@ -15,5 +15,7 @@ As a **subscriber**, I want to **submit my score for a crossfit event** so that 
 **Prototype**
 [Link to prototype](https://framer.com)
 
+**Components**
+
 **Screenshots/Videos**
 https://loom.com
