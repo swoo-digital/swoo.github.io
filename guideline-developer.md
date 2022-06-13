@@ -12,7 +12,9 @@
 
 ### Definition of Done
 
-- The feature has been tested locally and works
+- Acceptance criteria are fulfilled
+- The application looks and works like the prototype
+- It was tested with one Android and one IOS devices
 - All console.log were removed
 - All acceptance criteria are completed
 - The developer guideline was followed
