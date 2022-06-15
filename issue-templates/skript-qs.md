@@ -26,7 +26,7 @@
 - [ ] Verbindungen zu externen Seiten z.B. Datenschutzrichtlinie
 - [ ] Sinnhaftigkeit (Macht es Sinn was die App da macht?)
 
-**Unterschiedliche Devices** (Der obige Prozess wird mit ausgewählten Geräten wiederholt)
+**Unterschiedliche [Devices](https://github.com/swoo-digital/wiki/blob/main/issue-templates/list-of-devices.md)** (Der obige Prozess wird mit ausgewählten Geräten wiederholt)
 
 - [ ] Funktionstest
 - [ ] Design
