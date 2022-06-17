@@ -11,5 +11,5 @@
 
 ## Definition of Done QS
 
-- Punkte 1-6 wurden nach dem Skript bearbeitet
-- Die Geräteliste aus dem Skript wurde genutzt
+- Punkte 1-6 wurden nach dem [Skript](https://github.com/swoo-digital/wiki/blob/main/issue-templates/skript-qs.md) bearbeitet
+- Die [Geräteliste](https://github.com/swoo-digital/wiki/blob/main/issue-templates/list-of-devices.md) aus dem Skript wurde genutzt
