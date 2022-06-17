@@ -20,6 +20,7 @@ As a **subscriber**, I want to **submit my score for a crossfit event** so that 
 **QS**
 - [Script Qs](https://github.com/swoo-digital/wiki/blob/main/issue-templates/skript-qs.md)
 - [List of Devices](https://github.com/swoo-digital/wiki/blob/main/issue-templates/list-of-devices.md)
+- [Definition of Done QS](https://github.com/swoo-digital/wiki/blob/main/guideline-testing.md) 
 
 **Screenshots/Videos**
 https://loom.com
